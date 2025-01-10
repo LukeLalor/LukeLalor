@@ -4,7 +4,7 @@ I'm a software engineer passionate about bridging the gap between cutting-edge A
 
 ## 🔭 Current Work
 
-I'm the technical founder of [Eidolon AI](https://github.com/eidolon-ai), an open-source framework that enables developers to rapidly build and deploy production-grade AI applications. Some highlights:
+I'm the technical founder of [Eidolon AI](https://eidolonai.com/), an open-source framework that enables developers to rapidly build and deploy production-grade AI applications. Some highlights:
 
 - 🤖 Pioneered auto-discoverable multi-agent architecture
 - 🚀 Deterministic testing framework built in
