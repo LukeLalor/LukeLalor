@@ -29,4 +29,4 @@ A typed Python OpenAI client featuring:
 - **Big Data**: Apache Spark, MongoDB, Vector DBs
 - **MLOps**: CI/CD pipelines, testing frameworks, deployment automation
 
-*Always interested in collaborating on innovative projects in AI, distributed systems, and developer tools. Feel free to reach out!*
+*Always interested in collaborating on innovative projects in AI, distributed systems, and developer tools. [Feel free to reach out](https://www.linkedin.com/in/lukehlalor/)!*
