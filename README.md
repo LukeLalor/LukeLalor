@@ -4,16 +4,19 @@ I'm a software engineer passionate about bridging the gap between cutting-edge A
 
 ## 🔭 Current Work
 
-I'm the technical founder of [Eidolon AI](https://eidolonai.com/), an open-source framework that enables developers to rapidly build and deploy production-grade AI applications. Some highlights:
+I'm the technical founder of [Eidolon AI](https://eidolonai.com/), an agent framework that enables developers to rapidly build and deploy production-grade AI applications. Some highlights:
 
 - 🤖 Pioneered auto-discoverable multi-agent architecture
-- 🚀 Deterministic testing framework built in
+- 🚀 Secret Free, deterministic testing framework built in
 - 📈 Growing community with 200+ unique users
 
 ## 🛠️ Featured Projects
 
 ### [Droid Please](https://github.com/LukeLalor/droid-please)
 An LLM-powered coding assistant designed to integrate directly with your version control system.
+- Reduces compute by deduplicating work done per-developer (embeddings, prject exploration, etc)
+- Allows teams to optimize systems per-project rather than individual developers re-honing local agents / prompts
+- Obvious integration point for PR assistant agents to make small (and eventually large) changes.
 
 ### [Typed AI](https://github.com/eidolon-ai/typed-ai)
 A typed Python OpenAI client featuring:
