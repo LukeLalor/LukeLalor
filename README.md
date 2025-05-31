@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Luke
 
-I'm a software engineer passionate about bridging the gap between cutting-edge AI and enterprise infrastructure. Currently, I'm focused on building robust, scalable LLM applications and distributed systems.
+I'm a software engineer with 10+ years of experience passionate about bridging the gap between cutting-edge AI and enterprise infrastructure. Currently, I'm focused on building robust, scalable LLM applications and distributed systems.
 
 ## 🔭 Current Work
 
