@@ -18,7 +18,7 @@ An LLM-powered coding assistant designed to integrate directly with your version
 - Allows teams to optimize systems per-project rather than individual developers re-honing local agents / prompts
 - Obvious integration point for PR assistant agents to make small (and eventually large) changes.
 
-### [Typed AI](https://github.com/eidolon-ai/typed-ai)
+### [Typed AI](https://github.com/eidolon-ai/typedai)
 A typed Python OpenAI client featuring:
 - Pydantic-based schema definitions for tool calls and structured output
 - Full streaming support
